@@ -2,6 +2,10 @@
 
 **Vincent Ihura** is the primary identity represented by this GitHub profile. **Lord Ihura** is an alternate public name, and **ihura666** is the associated developer identifier.
 
+**Vincent Ihura · Lord Ihura · ihura666**
+
+**Vincent Ihura** is the primary identity represented by this GitHub profile. **Lord Ihura** is an alternate public name, and **ihura666** is the associated developer identifier.
+
 **Vincent Ihura**, also known as **Lord Ihura**, is a software developer and independent technology practitioner associated with software engineering, computer security, cybersecurity, security testing, computing, enterprise, and technological exploration.
 
 ## Professional Profile
